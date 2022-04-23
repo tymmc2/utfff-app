@@ -1,0 +1,52 @@
+[
+    {  
+        "event": "ISSS CTF",
+        "date": "Fri, 04/01/2022 - 6:00pm to 8:00pm",
+        "location": "GDC 4.304",
+        "email": "rahul.shan@utexas.edu",
+        "description": "A CTF (Capture the Flag) is a security-focused competition in which teams solve various challenges from different fields of security.  Whether you're a novice or an expert, CTFs are a great way to hone your hacking skills! Food will be provided!"
+    },
+    {  
+        "event": "Q++ Officer Elections & General Meeting",
+        "date": "Tue, 04/12/2022 - 5:00pm to 7:00pm",
+        "location": "GDC 6.302",
+        "email": "alexisleslieh@utexas.edu",
+        "description": "Q++ General member meeting & officer elections. Food provided."
+    },
+    {  
+        "event": "Accenture Tech Talk",
+        "date": "Tue, 04/12/2022 - 6:00pm to 8:00pm",
+        "location": "GDC 4.304",
+        "email": "rahul.shan@utexas.edu",
+        "description": "Accenture presents: Red Team Tactics - Credential Abuse. What’s the price of a password? With the difficulty and cost of software exploitation continuing to rise, attackers commonly target authentication system weaknesses and poor credential hygiene to achieve the necessary access required to accomplish the mission. This presentation will outline real-world credential abuse techniques that have proven to be successful against numerous organizations across the security maturity spectrum, and how only a strong defense-in-depth strategy can mitigate these types of attacks. Food will be provided!"
+    },
+    {  
+        "event": "Chick-Fil-A and CSBA Spring 2022 Event",
+        "date": "Wed, 04/13/2022 - 6:00pm to 7:30pm",
+        "location": "GDC 6.302",
+        "email": "txcsba@gmail.com",
+        "description": "CSBA is excited to host our corporate partners at CFA for dinner and an opportunity to hear about early talent recruiting and life as a software engineer at CFA."
+    },
+    {  
+        "event": "Brain Freeze with H-E-B",
+        "date": "Thu, 04/14/2022 - 3:00pm to 4:00pm",
+        "location": "GDC 2.100",
+        "email": "kirsten.goodin@utexas.edu",
+        "description": "Join H-E-B in the GDC Atrium for an afternoon dessert!"
+    },
+    {  
+        "event": "ISSS CTF #4",
+        "date": "Fri, 04/15/2022 - 6:00pm to 8:00pm",
+        "location": "GDC 2.216",
+        "email": "rahul.shan@utexas.edu",
+        "description": "CTF (Capture the Flag) is a security-focused competition in which teams solve various challenges from different fields of security.  Whether you're a novice or an expert, CTFs are a great way to hone your hacking skills! Food will be provided!"
+    },
+    {  
+        "event": "Tech Talk with Bloomberg: Inclusive Branch (Re)Naming at Scale",
+        "date": "Tue, 04/19/2022 - 5:30pm to 6:30pm",
+        "location": "GDC 6.302",
+        "email": "kirsten.goodin@utexas.edu",
+        "description": "Can we use technology to make our workspace more inclusive? Hear former Longhorn and now Bloomberg engineer, Chris Cotter, discuss the importance of inclusive terminology in tech. We’ll examine how Bloomberg migrated away from the code repository branch name “master” in favor of the industry standard “main,” and how we automated the process to migrate thousands of repositories across hundreds of engineering teams. Food from Chi'lantro will be provided! RSVP here: https://tinyurl.com/ybdl3wuw"
+    }
+ ]
+ 

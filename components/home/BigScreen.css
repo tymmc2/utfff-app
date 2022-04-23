@@ -1,0 +1,15 @@
+.home-bg {
+    width: 100%;
+    height: calc(100vh - 56px);
+    background-image: url("../../../public/images/tower.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.centered-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+}
